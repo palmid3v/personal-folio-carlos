@@ -16,10 +16,8 @@ export default async function Project() {
         </h1>
         <p className="text-base text-zinc-400 leading-relaxed">
           I&apos;ve worked on tons of little projects over the years but these
-          are the ones that I&apos;m most proud of. Many of them are
-          open-source, so if you see something that piques your interest, check
-          out the code and contribute if you have ideas for how it can be
-          improved.
+          are the ones that I&apos;m most proud of. Some of them have been built on my own and following a few devs tutorials,
+          dispite on how they work on their own, I&apos;ve been able to understand new technologies and old ones update.
         </p>
       </section>
 
